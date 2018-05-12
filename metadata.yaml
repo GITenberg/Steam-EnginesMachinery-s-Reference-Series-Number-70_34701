@@ -13,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34701#Steam-EnginesMachinery-s-Reference-Series-Number-70
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2010-12-19'
 gutenberg_type: Text
